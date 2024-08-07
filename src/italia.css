@@ -1,0 +1,17 @@
+table{
+    font-size: 2.5rem;
+
+}
+table img{
+    width: 300px;
+    height: 200px;
+}
+table td{
+    border: white solid 2px;
+}
+svg{
+    width: 50px;
+    fill: white;
+   position: absolute;
+   margin-left: -900px;
+}

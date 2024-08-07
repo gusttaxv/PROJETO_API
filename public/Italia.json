@@ -1,0 +1,42 @@
+[
+  {
+    "nome": "Pizza Margherita",
+    "imagem": "https://irp.cdn-website.com/33406c6e/dms3rep/multi/margherita-7d163fb8.jpg"
+  },
+  {
+    "nome": "Lasagna",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7d42QEDaVKs80RACSD4nnLKcGLyySW951A&s"
+  },
+  {
+    "nome": "Tiramisu",
+    "imagem": "https://p2.trrsf.com/image/fget/cf/1200/1200/middle/images.terra.com/2022/12/19/67791397-tiramisu-diferentes-versoes.jpg"
+  },
+  {
+    "nome": "Pasta Carbonara",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRYS3S7GcZ8LapwxlpMworyzEZ5RAaoSeYQ&s"
+  },
+  {
+    "nome": "Ravioli",
+    "imagem": "https://i.panelinha.com.br/i1/228-q-1565-k5a0144.webp"
+  },
+  {
+    "nome": "Osso Buco",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb0QA6XS6V4l2klZ8_8m3VAMKNoQZCMxNjKw&s"
+  },
+  {
+    "nome": "Risotto",
+    "imagem": "https://vindouro.com.br/wp-content/uploads/2023/01/a-historia-do-risoto-blog.jpg"
+  },
+  {
+    "nome": "Bruschetta",
+    "imagem": "https://static.itdg.com.br/images/1200-630/dadafb5a13a8fc316bded0ea8feb2a37/326223-original.jpg"
+  },
+  {
+    "nome": "Frittata",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReH6i6Fhp54q5tshknKoBX-YGbuuFrb1MBXA&s"
+  },
+  {
+    "nome": "Gelato",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxx0aHeD66Q8jNFN8wRnIoZKCLHBP5NwtUWQ&s"
+  }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "nome": "Feijoada",
+        "imagem": "https://istoe.com.br/wp-content/uploads/2022/06/feij.jpg"
+      },
+      {
+        "nome": "Coxinha",
+        "imagem": "https://www.hojetemfrango.com.br/wp-content/uploads/2018/12/coxinha-de-frango-especial-seara.jpg"
+      },
+      {
+        "nome": "Brigadeiro",
+        "imagem": "https://static.itdg.com.br/images/640-360/a373f494abb2c3360b9966f5abe130e2/brigadeiro-.jpg"
+      },
+      {
+        "nome": "Pão de Queijo",
+        "imagem": "https://moinhoglobo.com.br/wp-content/uploads/2016/03/44-p%C3%A3o-de-queijo.jpg"
+      },
+      {
+        "nome": "Acarajé",
+        "imagem": "https://truffle-assets.tastemadecontent.net/cdn-cgi/image/width=360/dbd3b840-acaraje_s_thumb.jpg"
+      },
+      {
+        "nome": "Moqueca",
+        "imagem": "https://www.unileverfoodsolutions.com.br/dam/global-ufs/mcos/SLA/calcmenu/recipes/BR-recipes/fish-&-other-seafood-dishes/moqueca-r%C3%A1pida/main-header.jpg"
+      },
+      {
+        "nome": "Pastel",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLBBT8mGOwguRq_aEP3bBYwxMdQ_xV5vNcHg&s"
+      },
+      {
+        "nome": "Vatapá",
+        "imagem": "https://acozinhabrasileira.com.br/wp-content/uploads/2021/09/receita-de-vatapa.jpg"
+      },
+      {
+        "nome": "Farofa",
+        "imagem": "https://img-global.cpcdn.com/recipes/8eb8a57536a5561e/680x482cq70/foto-principal-da-receita-farofa-para-churrasco.jpg"
+      },
+      {
+        "nome": "Arroz e Feijão",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcNfYJZCZKqBQuUBNDdOE5JUnIPAuvX05Ow&s"
+      }
+  ]
+  

@@ -1,0 +1,43 @@
+[
+    {
+        "nome": "Sushi",
+        "imagem": "https://s2-oglobo.glbimg.com/WJbkQ3azBgWArXdztVpRcL_EB10=/0x0:6067x3467/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/2/S/yPBPRRQnuuh6CqxHEBVQ/prato-de-frutos-do-mar-frescos-com-sashimi-de-sushi-e-wasabi-gerado-por-ia.jpg"
+      },
+      {
+        "nome": "Ramen",
+        "imagem": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/17eefccc0612317aa9f2ce1fbaae56cc/Derivates/3740e0c14b97c50890905a1961b9eb542959cc06.jpg"
+      },
+      {
+        "nome": "Tempura",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaIXk7bx5jb-k8Q_ztG3WV7oPVFnRJshT8yg&s"
+      },
+      {
+        "nome": "Udon",
+        "imagem": "https://www.justonecookbook.com/wp-content/uploads/2024/03/Kake-Udon-7549-I-1.jpg"
+      },
+      {
+        "nome": "Soba",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO2Xg3WTk9O00x7zSkqbPOk-4h_tU6h0CjZw&s"
+      },
+      {
+        "nome": "Takoyaki",
+        "imagem": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-takoyaki-1.jpg"
+      },
+      {
+        "nome": "Okonomiyaki",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCHsVQ59DdcILEG6kMMOZV80PWVU0GYvkhA&s"
+      },
+      {
+        "nome": "Miso Soup",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbS9fnPUAXgrBEsy6BPvL45gnN7h5rYJjMYQ&s"
+      },
+      {
+        "nome": "Yakitori",
+        "imagem": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_744,ar_5:4/v1/img/recipes/74/84/4/wJzaUOYASw64dUqTpa9Z_yakitori%20SITE.jpg"
+      },
+      {
+        "nome": "Katsudon",
+        "imagem": "https://www.marionskitchen.com/wp-content/uploads/2019/07/Katsudon-01.jpg"
+      }
+  ]
+  
